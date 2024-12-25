@@ -3,9 +3,9 @@
 Dairy App is a task management application built using Swift, RxSwift, and Realm. It features a calendar-based interface for organizing daily tasks, loading data from a JSON file, and persisting data locally using Realm.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Images/screen1.png" alt="Screenshot 1" width="300" style="margin-right: 10px;"/>
-    <img src="Images/screen2.png" alt="Screenshot 2" width="300" style="margin-right: 10px;"/>
-    <img src="Images/screen3.png" alt="Screenshot 3" width="300"/>
+    <img src="Images/Screen1.png" alt="Screenshot 1" width="300" style="margin-right: 10px;"/>
+    <img src="Images/Screen2.png" alt="Screenshot 2" width="300" style="margin-right: 10px;"/>
+    <img src="Images/Screen3.png" alt="Screenshot 3" width="300"/>
 </div>
 
 ## Features
